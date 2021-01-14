@@ -27,31 +27,45 @@
 
 <body>
     <div class="container pt-5 pb-5">
+        <div class="row mb-4">
+            <div class="col-12 text-center">
+            <h1>ANDREZA LIMA - COWORKING</h4>
+            </div>
+        </div>
         <div class="row">
-            <div class="col-12 col-md-3 my-1">
-                <img src="http://placehold.it/300x300" class="img-fluid mx-auto d-block">
-            </div>
-            <div class="col-12 col-md-3 my-1">
-                <img src="http://placehold.it/300x300" class="img-fluid mx-auto d-block">
-            </div>
-            <div class="col-12 col-md-3 my-1">
-                <img src="http://placehold.it/300x300" class="img-fluid mx-auto d-block">
-            </div>
-            <div class="col-12 col-md-3 my-1">
-                <img src="http://placehold.it/300x300" class="img-fluid mx-auto d-block">
-            </div>
-        </div>
-        <div class="my-3 row justify-content-center">
             <div class="col-12 col-md-8">
-                <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed asperiores
-                    aspernatur vitae
-                    voluptate, qui impedit modi explicabo. Molestias hic sint in voluptate quos, voluptas, adipisci
-                    recusandae accusamus doloremque, illum ducimus.</p>
+                <div class="row">
+                    <div class="col-12 col-md-6 my-1">
+                        <img src="<?=base_url("app/img/imagem1.jpeg")?>" class="img-fluid mx-auto d-block">
+                    </div>
+                    <div class="col-12 col-md-6 my-1">
+                        <img src="<?=base_url("app/img/imagem2.jpeg")?>" class="img-fluid mx-auto d-block">
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 col-md-6 my-1">
+                        <img src="<?=base_url("app/img/imagem4.jpeg")?>" class="img-fluid mx-auto d-block">
+                    </div>
+                    <div class="col-12 col-md-6 my-1">
+                        <img src="<?=base_url("app/img/imagem5.jpeg")?>" class="img-fluid mx-auto d-block">
+                    </div>
+                </div>
             </div>
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-12 col-md-3 text-center">
-                <a href="#" class="btn btn-success btn-lg"><i class="fab fa-whatsapp"></i> Entre em contato</a>
+            <div class="col-12 col-md-4 d-flex flex-column justify-content-center align-items-center">
+                <div class="my-3 row">
+                    <div class="col-12">
+                        <p class="text-center">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sed asperiores
+                            aspernatur vitae
+                            voluptate, qui impedit modi explicabo. Molestias hic sint in voluptate quos, voluptas,
+                            adipisci
+                            recusandae accusamus doloremque, illum ducimus.</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-12 text-center">
+                        <a href="#" class="btn btn-success btn-lg"><i class="fab fa-whatsapp"></i> Entre em contato</a>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
