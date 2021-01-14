@@ -1,7 +1,9 @@
 body{
-    height: 100vh;
     background-image: url("../img/bg-nuvem.png") ;
     background-color: rgba(245, 245, 245,1);
+}
+.h80 {
+    height: 80%;
 }
 .h100 {
     height: 100%;
