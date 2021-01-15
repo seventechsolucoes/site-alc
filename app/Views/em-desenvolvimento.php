@@ -54,7 +54,7 @@
                     <p><strong>VANTAGENS PARA VOC&Ecirc; PROFISSIONAL</strong></p>
                     <p><strong>Nosso objetivo como Coworking</strong></p>
                     <p style="text-align: justify;">Possibilitar aos profissionais da &aacute;rea de est&eacute;tica,
-                        beleza, sa&uacute;de e bem-&nbsp;a ter um espa&ccedil;o de trabalho de qualidade com
+                        beleza, sa&uacute;de e bem-estar a ter um espa&ccedil;o de trabalho de qualidade com
                         pre&ccedil;os
                         acess&iacute;veis&nbsp;e sem burocracia desnecess&aacute;ria atrav&eacute;s de nosso Coworking
                         da
@@ -80,7 +80,7 @@
                     <p><strong>Perfeito para quem est&aacute; buscando um modelo de trabalho mais INDEPENDENTE e
                             FLEX&Iacute;VEL</strong></p>
                     <p>Venha empreender e crescer com&nbsp;<strong>AUTONOMIA!</strong></p>
-                    <p><strong>Voc&ecirc; profissional querendo fugir dos sal&otilde;es e clinicas tradicionais</strong>
+                    <p><strong>Voc&ecirc; profissional querendo fugir dos sal&otilde;es e clinicas tradicionais?</strong>
                     </p>
                     <p>&nbsp;</p>
                     <p><strong>S&Atilde;O IN&Uacute;MEROS MOTIVOS PARA FAZER PARTE DA FAM&Iacute;LIA ANDREZA LIMA
