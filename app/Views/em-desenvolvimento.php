@@ -34,18 +34,18 @@
         </div>
         <div class="row">
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("app/img/imagem1.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem1.jpeg")?>" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("app/img/imagem2.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem2.jpeg")?>" class="img-fluid mx-auto d-block">
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("app/img/imagem4.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem4.jpeg")?>" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("app/img/imagem5.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem5.jpeg")?>" class="img-fluid mx-auto d-block">
             </div>
         </div>
         <div class="row">
