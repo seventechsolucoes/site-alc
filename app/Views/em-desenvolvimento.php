@@ -29,23 +29,23 @@
     <div class="container pt-5 pb-5">
         <div class="row mb-4">
             <div class="col-12 text-center">
-                <h1>ANDREZA LIMA - COWORKING</h4>
+                <img src="https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/logo-andreza-coworking.png" class="img-fluid mx-auto d-block">
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem1.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem1.jpeg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem2.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem2.jpeg" class="img-fluid mx-auto d-block">
             </div>
         </div>
         <div class="row">
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem4.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem4.jpeg" class="img-fluid mx-auto d-block">
             </div>
             <div class="col-12 col-md-6 my-1">
-                <img src="<?=base_url("https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem5.jpeg")?>" class="img-fluid mx-auto d-block">
+                <img src="https://al-coworking.s3.amazonaws.com/assets/img/em-desenvolvimento/imagem5.jpeg" class="img-fluid mx-auto d-block">
             </div>
         </div>
         <div class="row">
